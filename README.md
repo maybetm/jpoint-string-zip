@@ -6,7 +6,7 @@
 
 [Класс сжатия](src/main/java/com/maybetm/jpoint/string/zip/StringZipImpl.java)
 
-[Тесты кейсы](src/test/java/com/maybetm/jpoint/string/zip/StringZipImplTest.java)
+[Тест кейсы](src/test/java/com/maybetm/jpoint/string/zip/StringZipImplTest.java)
 
 >mvn test
 
