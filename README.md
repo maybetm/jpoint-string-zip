@@ -1,4 +1,4 @@
-## jpoint-inn-parser
+## jpoint-string-zip
 
 Третий день JPoint 2020
 
